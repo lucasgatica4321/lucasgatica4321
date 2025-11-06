@@ -13,32 +13,10 @@
 - 📲 Mobile developer
 - 
 - 
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 
 <br>
 
 ## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-</a>
-</p>
-<p></p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-</a>
-</p>                                                                                    
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -48,4 +26,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasgatica4321&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-](https://github.com/lucasgatica4321/lucasgatica4321)
