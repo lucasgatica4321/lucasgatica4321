@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/Wskj8cn.jpeg">
 
 
-[![GitHub followers]([https://img.shields.io/github/followers/arisguimera?style=social](https://github.com/lucasgatica4321/lucasgatica4321))]
+[![GitHub followers](](https://github.com/lucasgatica4321/lucasgatica4321))]
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Sobre mi
